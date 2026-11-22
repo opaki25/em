@@ -10,3 +10,4 @@
 @media(min-width:1500px){.hero-van{right:calc((100vw - 1360px)/2)}}
 @media(max-width:1000px){.vehicle-stage{margin-top:10px;height:370px}.hero-van{width:78%;right:3%;height:380px;top:0}.vehicle-caption{width:70%}}
 @media(max-width:650px){.vehicle-stage{margin-top:22px;height:255px}.hero-van{width:96%;right:2%;height:235px;top:0}.vehicle-caption{width:88%;font-size:7px}.hero-top .intro{font-size:14px}.booking h2{font-size:36px}.ride-art img{width:100%;left:0}.hero h1{font-size:48px}}
+@media(min-width:1001px){.vehicle-stage{margin-top:-245px;height:440px}.hero-van{top:-35px}.vehicle-caption{bottom:12px}}
